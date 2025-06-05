@@ -10,7 +10,6 @@ Adventure awaits! Will you rise as Asteria's new King?
 
 [![Steam Shuffle Tactics](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2186580/Shuffle_Tactics/)
 
-
 ## Contribution
 
 - Architecture (Spawning, game events, entities, managers)
