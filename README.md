@@ -9,9 +9,6 @@ I love working on video games and exploring new ideas.
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.pr.liu@gmail.com)
 
 
-
-
-
 ## Techs
 
 ![Badge C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
