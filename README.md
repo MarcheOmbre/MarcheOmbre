@@ -14,12 +14,12 @@ I love working on video games and exploring new ideas.
 
 ## Techs
 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="Badge C#">
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Badge Unity">
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="Badge Godot">
+![Badge C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Badge Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Badge Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 <br>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Badge Figma">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Badge Notion">
+![Badge Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Badge Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Work experience
 
@@ -31,6 +31,7 @@ I love working on video games and exploring new ideas.
 <img src="Media/Demonstrator.png" alt="drawing" width="150" height="150"/>
 
 ## Side projects
+
 <img src="Media/VR%20spaceship%20simulator.png" alt="drawing" width="150" height="150"/>
 <img src="Media/2D%20blocks%20space%20shooter.png" alt="drawing" width="150" height="150"/>
 <img src="Media/Mobile%20skateboarding%20mechanics.png" alt="drawing" width="150" height="150"/>
