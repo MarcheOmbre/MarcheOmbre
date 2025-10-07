@@ -1,7 +1,5 @@
 # Home
 
-<img align="left" width="100" height="100" style="padding-right: 10px" src="Media/Profil.png" alt="Profile"/>
-
 Hi, I’m Victor, a Unity/C# developer.  
 I love working on video games and exploring new ideas.
 
