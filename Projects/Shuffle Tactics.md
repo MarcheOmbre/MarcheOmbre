@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<video src="../Media/Videos/ShuffleTactics_Video.mp4" width=430/>Shuffle Tactics</video>
+[![Shuffle Tactics](../Media/VideoPictures/ShuffleTacticsTrailer_VideoPict.png)](https://www.youtube.com/watch?v=LG0WEHIL7RQ)
 
 Shuffle Tactics is a roguelike deckbuilding tactical RPG. Strategize to survive tough battles, pick the right cards to 
 create powerful synergies, and bond with your sidekicks to get an edge in battle. 
