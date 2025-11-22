@@ -30,5 +30,4 @@ I love working on video games and exploring new ideas.
 [<img src="Media/Mobile%20skateboarding%20mechanics.png" alt="Cyberboard Race" width="150" height="150"/>](https://github.com/MarcheOmbre/CyberboardRace_Public/blob/main/README.md)
 [<img src="Media/Live%20Dive%20Repeat.png" alt="drawing" width="150" height="150"/>](Projects/Live%20Dive%20Retry.md)
 [<img src="Media/About%20horror%20ambience.png" alt="drawing" width="150" height="150"/>](Projects/About%20horror%20ambience.md)
-[<img src="Media/About%20reflections.png" alt="drawing" width="150" height="150"/>](Projects/About%20reflections.md)
 
