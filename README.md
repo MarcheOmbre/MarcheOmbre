@@ -18,13 +18,13 @@ I love working on video games and exploring new ideas.
 
 [<img src="Media/Shuffle Tactics.png" alt="Shuffle Tactics" width="150" height="150"/>](Projects/Shuffle%20Tactics.md)
 [<img src="Media/66%20Demons%20!.png" alt="66 Demons" width="150" height="150"/>](Projects/66%20Demons%20!.md)
-[<img src="Media/Psycasso.png" alt="Psycasso" width="150" height="150"/>](Projects/Psycasso.md)
 [<img src="Media/MiniGames.png" alt="Interhaptics Mini-games" width="150" height="150"/>](Projects/Interhaptics%20Mini-games.md)
 [<img src="Media/HapticDemonstrator.png" alt="Interhaptics HUB" width="150" height="150"/>](Projects/Interhaptics%20HUB.md)
-[<img src="Media/Demonstrator.png" alt="drawing" width="150" height="150"/>](Projects/Shuffle%20Tactics.md)
+[<img src="Media/Demonstrator.png" alt="drawing" width="150" height="150"/>](Projects/Interhaptics%20Training.md)
 
 ## Side projects
 
+[<img src="Media/Psycasso.png" alt="Psycasso" width="150" height="150"/>](Projects/Psycasso.md)
 [<img src="Media/VR%20spaceship%20simulator.png" alt="Relaxing Space" width="150" height="150"/>](https://github.com/MarcheOmbre/RelaxingSpace_Public/blob/main/README.md)
 [<img src="Media/2D%20blocks%20space%20shooter.png" alt="Space Blocks" width="150" height="150"/>](https://github.com/MarcheOmbre/SpaceBlocks_Public/blob/main/README.md)
 [<img src="Media/Mobile%20skateboarding%20mechanics.png" alt="Cyberboard Race" width="150" height="150"/>](https://github.com/MarcheOmbre/CyberboardRace_Public/blob/main/README.md)

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Interhaptics Mini-games Trailer](https://img.youtube.com/vi/wNEnJWR4GGY/0.jpg)](https://www.youtube.com/watch?v=wNEnJWR4GGY)
+[![Interhaptics_MiniGamesTrailer](../Media/VideoPictures/InterhapticsMG_VideoPict.png)](https://www.youtube.com/watch?v=wNEnJWR4GGY)
 
 Interhaptics Mini Games is a demonstration of haptic integration for mobile. The application consists of 5 game demos in which haptics adds value.
 - Rider: Haptics emphasises the arcade aspect of the gameplay. It enhances acceleration, car collisions, and tricks with vibrations.
