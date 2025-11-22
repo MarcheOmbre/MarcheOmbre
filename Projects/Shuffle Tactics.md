@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Shuffle Tactics](../Media/VideoPictures/ShuffleTacticsTrailer_VideoPict.png)](https://www.youtube.com/watch?v=LG0WEHIL7RQ)
+[![Steam Shuffle Tactics](../Media/VideoPictures/ShuffleTacticsTrailer_VideoPict.png)](https://www.youtube.com/watch?v=LG0WEHIL7RQ)
 
 Shuffle Tactics is a roguelike deckbuilding tactical RPG. Strategize to survive tough battles, pick the right cards to 
 create powerful synergies, and bond with your sidekicks to get an edge in battle. 
@@ -22,7 +22,7 @@ Adventure awaits! Will you rise as Asteria's new King?
 
 ### The Map Generator 
 
-[<img src="https://img.youtube.com/vi/hWmefXF4Yvg/0.jpg" alt="Shuffle Tactics Tooling"/>](https://www.youtube.com/watch?v=hWmefXF4Yvg)
+[![Map Tool Shuffle Tactics](../Media/VideoPictures/ShuffleTactics_VideoPict.png)](https://www.youtube.com/watch?v=hWmefXF4Yvg)
 
 Helps game designers and artists create maps without any coding.
 - Block creation, selection, and management (Game Design)

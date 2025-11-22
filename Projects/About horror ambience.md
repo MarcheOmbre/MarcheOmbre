@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Horror ambience video](https://img.youtube.com/vi/lJt7ydfFn3A/0.jpg)](https://www.youtube.com/watch?v=lJt7ydfFn3A)
+[![Horror Ambiance Trailer](../Media/VideoPictures/Horror_VideoPict.png)](https://www.youtube.com/watch?v=lJt7ydfFn3A)
 
 ## Assets
 

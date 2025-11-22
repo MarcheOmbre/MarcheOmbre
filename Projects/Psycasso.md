@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![Psycasso Trailer](https://img.youtube.com/vi/zhOq-oYvcm8/0.jpg)](https://www.youtube.com/watch?v=zhOq-oYvcm8)
+[![Psycasso Trailer](../Media/VideoPictures/Psycasso_VideoPict.png)](https://www.youtube.com/watch?v=zhOq-oYvcm8)
 
 This game follows an unsuccessful artist called ‘Psycasso’ who finds a huge rise in popularity when he combines artwork
 with his secret hobby… Murder!
